@@ -1,0 +1,10 @@
+chat\Receiver.class
+utils\NodeInfo.class
+utils\NetworkUtilities.class
+chat\ChatClient.class
+chat\ReceiverWorker.class
+utils\Message.class
+chat\Sender.class
+utils\MessageTypes.class
+utils\PropertyHandler.class
+chat\ChatClientWorker.class
